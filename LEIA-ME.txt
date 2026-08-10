@@ -1,0 +1,10 @@
+MEU PLANEJADOR SEMANAL - PWA
+
+Esta pasta já contém:
+- aplicativo
+- histórico de semanas
+- manifesto para instalação
+- service worker para cache/offline
+- ícone de lótus
+
+Para instalar no celular, a pasta precisa ser publicada em um endereço HTTPS. Depois, abra o endereço no navegador e escolha "Adicionar à tela inicial" ou "Instalar aplicativo".
